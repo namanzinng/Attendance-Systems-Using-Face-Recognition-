@@ -1,6 +1,6 @@
 <!-- Project Logo -->
 <p align="center">
-  <img src="YOUR_LOGO_URL" alt="Project Logo" width="150" />
+  <img src="https://github.com/namanzinng/Attendance-Systems-Using-Face-Recognition-/blob/main/logo.png" alt="Project Logo" width="150" />
 </p>
 
 <h1 align="center">Attendance System Using Face Recognition</h1>
