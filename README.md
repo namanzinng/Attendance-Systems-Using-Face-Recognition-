@@ -29,7 +29,7 @@
 <p align="center">
   <img src="https://github.com/namanzinng/Attendance-Systems-Using-Face-Recognition-/blob/main/Student%20Registration.png" alt="Face Detection Example" width="600"/>
   <br>
-  <em>Fig 2: Real-time face detection during attendance capture</em>
+  <em>Fig 2: Marking Attendance </em>
 </p>
 
 ---
@@ -58,5 +58,4 @@
 
 ---
 
-## 📂 Folder Structure
 
