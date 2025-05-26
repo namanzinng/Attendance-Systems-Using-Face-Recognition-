@@ -21,13 +21,13 @@
 ## 📸 Project Demo
 
 <p align="center">
-  <img src="YOUR_IMAGE_URL_1" alt="Dashboard Screenshot" width="600"/>
+  <img src="https://github.com/namanzinng/Attendance-Systems-Using-Face-Recognition-/blob/main/UI.png" alt="Dashboard Screenshot" width="600"/>
   <br>
   <em>Fig 1: Project Dashboard - Take Attendance or Add New User</em>
 </p>
 
 <p align="center">
-  <img src="YOUR_IMAGE_URL_2" alt="Face Detection Example" width="600"/>
+  <img src="https://github.com/namanzinng/Attendance-Systems-Using-Face-Recognition-/blob/main/Student%20Registration.png" alt="Face Detection Example" width="600"/>
   <br>
   <em>Fig 2: Real-time face detection during attendance capture</em>
 </p>
